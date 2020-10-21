@@ -6,11 +6,21 @@ namespace try_to_save
     {
         static void Main(string[] args)
         {
-            Point p1 = new Point(3, 5, '#');
-            p1.Draw();
+            /*Point p1 = new Point(3, 5, '#');
+            p1.Draw();*/
 
-            vert_line line = new vert_line(3, 17, 5, '^');
-            line.Draw();
+            vert_line line1 = new vert_line(0, Console.WindowHeight, 0, '*');
+            line1.Draw();
+            vert_line line2 = new vert_line(0, Console.WindowHeight-1, Console.WindowWidth-1, '*');
+            line2.Draw();
+            hor_line line3 = new hor_line(0, Console.WindowWidth-1, Console.WindowHeight-1, '*');
+            line3.Draw();
+            hor_line line4 = new hor_line(0, Console.WindowWidth-1, 0, '*');
+            line4.Draw();
+
+
+
+
 
             Console.ReadKey();
         }
