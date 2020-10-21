@@ -1,0 +1,13 @@
+C:\Users\Тим\Desktop\практика программирование\GIT\Training project\try_to_save\try_to_save\bin\Debug\netcoreapp3.1\try_to_save.exe
+C:\Users\Тим\Desktop\практика программирование\GIT\Training project\try_to_save\try_to_save\bin\Debug\netcoreapp3.1\try_to_save.deps.json
+C:\Users\Тим\Desktop\практика программирование\GIT\Training project\try_to_save\try_to_save\bin\Debug\netcoreapp3.1\try_to_save.runtimeconfig.json
+C:\Users\Тим\Desktop\практика программирование\GIT\Training project\try_to_save\try_to_save\bin\Debug\netcoreapp3.1\try_to_save.runtimeconfig.dev.json
+C:\Users\Тим\Desktop\практика программирование\GIT\Training project\try_to_save\try_to_save\bin\Debug\netcoreapp3.1\try_to_save.dll
+C:\Users\Тим\Desktop\практика программирование\GIT\Training project\try_to_save\try_to_save\bin\Debug\netcoreapp3.1\try_to_save.pdb
+C:\Users\Тим\Desktop\практика программирование\GIT\Training project\try_to_save\try_to_save\obj\Debug\netcoreapp3.1\try_to_save.csprojAssemblyReference.cache
+C:\Users\Тим\Desktop\практика программирование\GIT\Training project\try_to_save\try_to_save\obj\Debug\netcoreapp3.1\try_to_save.AssemblyInfoInputs.cache
+C:\Users\Тим\Desktop\практика программирование\GIT\Training project\try_to_save\try_to_save\obj\Debug\netcoreapp3.1\try_to_save.AssemblyInfo.cs
+C:\Users\Тим\Desktop\практика программирование\GIT\Training project\try_to_save\try_to_save\obj\Debug\netcoreapp3.1\try_to_save.csproj.CoreCompileInputs.cache
+C:\Users\Тим\Desktop\практика программирование\GIT\Training project\try_to_save\try_to_save\obj\Debug\netcoreapp3.1\try_to_save.dll
+C:\Users\Тим\Desktop\практика программирование\GIT\Training project\try_to_save\try_to_save\obj\Debug\netcoreapp3.1\try_to_save.pdb
+C:\Users\Тим\Desktop\практика программирование\GIT\Training project\try_to_save\try_to_save\obj\Debug\netcoreapp3.1\try_to_save.genruntimeconfig.cache

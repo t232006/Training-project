@@ -6,7 +6,8 @@ namespace try_to_save
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Point p1 = new Point(3, 5, '#');
+            p1.Draw();
             Console.ReadKey();
         }
     }
