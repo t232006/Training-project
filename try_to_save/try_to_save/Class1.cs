@@ -36,5 +36,12 @@ namespace try_to_save
             else x += offset;
             Draw();
         }
+
+        public void Clear()
+        {
+            sym = ' ';
+            Draw();
+        }
+
     }
 }
