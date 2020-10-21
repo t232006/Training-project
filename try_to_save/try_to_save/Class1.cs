@@ -10,6 +10,13 @@ namespace try_to_save
         {
             x = x1; y = y1; sym = sym1;
         }
+        public Point(Point p)
+        {
+            x = p.x;
+            y = p.y;
+            sym = p.sym;
+        }
+
         int x;
         int y;
         char sym;
@@ -17,6 +24,17 @@ namespace try_to_save
         {
             Console.SetCursorPosition(x, y);
             Console.WriteLine(sym);
+        }
+        public void move(int offset, Direction direction)
+        {
+            if (direction == Direction.UP)
+                y -= offset;
+            if (direction == Direction.DOWN)
+                y += offset;
+            if (direction == Direction.LEFT)
+                x -= offset;
+            else x += offset;
+            Draw();
         }
     }
 }
